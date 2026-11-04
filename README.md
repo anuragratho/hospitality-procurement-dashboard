@@ -4,7 +4,7 @@ An end-to-end procurement analytics project for a multi-property hotel group: a 
 
 > **All data is synthetic.** The hotel group ("Harbourline"), its hotels and suppliers are fictional. The data model mirrors how a multi-property Irish hotel group buys food, beverage and operating supplies through an e-procurement system and finance package (PO → GRN → invoice), but no real company data is used.
 
-![Dashboard preview](docs/images/dashboard_preview.png)
+![Dashboard preview](https://github.com/anuragratho/hospitality-procurement-dashboard/blob/main/hospitality-procurement-dashboard/docs/images/dashboard_preview.png)
 
 ## The questions it answers
 
