@@ -1,0 +1,58 @@
+product_id,product_name,category,subcategory,unit,base_price,base_weekly_qty_per_100_rooms,preferred_supplier_id
+P001,Potatoes (Rooster) 10kg,Food,Fresh Produce,sack,9.8,6.0,S01
+P002,Mixed Salad Leaves 1kg,Food,Fresh Produce,bag,6.4,8.0,S01
+P003,Tomatoes Vine 5kg,Food,Fresh Produce,box,14.2,3.0,S01
+P004,Onions Brown 10kg,Food,Fresh Produce,sack,8.6,2.5,S01
+P005,Seasonal Fruit Platter Mix 5kg,Food,Fresh Produce,box,21.5,3.5,S01
+P006,Lemons (case of 80),Food,Fresh Produce,case,18.9,1.2,S01
+P007,Irish Beef Sirloin 1kg,Food,Meat & Poultry,kg,24.5,9.0,S02
+P008,Chicken Fillets 5kg,Food,Meat & Poultry,box,38.0,5.0,S02
+P009,Back Rashers 2.27kg,Food,Meat & Poultry,pack,17.6,7.0,S02
+P010,Pork Sausages (60),Food,Meat & Poultry,pack,14.8,6.5,S02
+P011,Lamb Shank (each),Food,Meat & Poultry,each,6.9,10.0,S02
+P012,Salmon Fillet Side 1.5kg,Food,Seafood,side,27.4,3.0,S03
+P013,Cod Loin 1kg,Food,Seafood,kg,22.8,3.5,S03
+P014,Smoked Salmon Sliced 1kg,Food,Seafood,pack,31.5,1.5,S03
+P015,Free Range Eggs (tray of 30),Food,Dairy & Eggs,tray,7.4,14.0,S04
+P016,Fresh Milk 2L,Food,Dairy & Eggs,bottle,2.15,40.0,S04
+P017,Irish Butter Portions (100),Food,Dairy & Eggs,box,12.6,5.0,S04
+P018,Cream 1L,Food,Dairy & Eggs,carton,4.3,6.0,S04
+P019,Cheddar Block 2.5kg,Food,Dairy & Eggs,block,21.9,1.5,S04
+P020,Brown Soda Bread,Food,Bakery,loaf,2.6,18.0,S05
+P021,Croissants (pack of 24),Food,Bakery,pack,13.4,6.0,S05
+P022,Sliced Pan White 800g,Food,Bakery,loaf,1.95,12.0,S05
+P023,Porridge Oats 3kg,Food,Dry Goods,bag,6.2,2.0,S06
+P024,Basmati Rice 10kg,Food,Dry Goods,sack,19.8,0.8,S06
+P025,Penne Pasta 3kg,Food,Dry Goods,bag,6.9,1.2,S06
+P026,Rapeseed Oil 10L,Food,Dry Goods,drum,24.5,1.0,S06
+P027,Breakfast Cereal Variety (case),Food,Dry Goods,case,28.6,1.5,S06
+P028,Stout Keg 50L,Beverage,Beer & Cider,keg,225.0,0.9,S07
+P029,Lager Keg 50L,Beverage,Beer & Cider,keg,210.0,1.1,S07
+P030,Craft IPA Bottles (24),Beverage,Beer & Cider,case,42.0,1.0,S07
+P031,Irish Cider Bottles (24),Beverage,Beer & Cider,case,36.5,0.8,S07
+P032,House Red Wine (case of 6),Beverage,Wine,case,48.0,3.0,S08
+P033,House White Wine (case of 6),Beverage,Wine,case,46.5,3.4,S08
+P034,Prosecco (case of 6),Beverage,Wine,case,57.0,1.6,S08
+P035,Premium Rioja (case of 6),Beverage,Wine,case,84.0,0.5,S08
+P036,Irish Whiskey 70cl,Beverage,Spirits,bottle,24.9,2.5,S08
+P037,Premium Gin 70cl,Beverage,Spirits,bottle,27.5,2.2,S08
+P038,Vodka 70cl,Beverage,Spirits,bottle,19.4,1.8,S08
+P039,Dark Rum 70cl,Beverage,Spirits,bottle,21.2,0.9,S08
+P040,Cola Postmix 10L,Beverage,Soft Drinks & Mixers,box,62.0,1.0,S07
+P041,Tonic Water 200ml (24),Beverage,Soft Drinks & Mixers,case,13.8,2.4,S07
+P042,Still Water 500ml (24),Beverage,Soft Drinks & Mixers,case,8.9,4.0,S07
+P043,Orange Juice 1L (12),Beverage,Soft Drinks & Mixers,case,19.2,2.6,S07
+P044,Coffee Beans House Blend 1kg,Beverage,Tea & Coffee,bag,17.5,4.0,S09
+P045,Breakfast Tea Bags (1100),Beverage,Tea & Coffee,box,22.4,0.7,S09
+P046,Multi-Surface Cleaner 5L,Operating Supplies,Cleaning Chemicals,drum,11.8,2.0,S10
+P047,Dishwasher Detergent 20L,Operating Supplies,Cleaning Chemicals,drum,46.0,0.8,S10
+P048,Washroom Sanitiser 5L,Operating Supplies,Cleaning Chemicals,drum,13.5,1.5,S10
+P049,Shampoo 30ml (case of 300),Operating Supplies,Guest Amenities,case,54.0,0.9,S11
+P050,Wrapped Soap Bars (case of 500),Operating Supplies,Guest Amenities,case,49.0,0.6,S11
+P051,Toilet Rolls (case of 36),Operating Supplies,Guest Amenities,case,24.6,2.8,S11
+P052,Bath Towel (each),Operating Supplies,Linen & Laundry,each,6.2,6.0,S12
+P053,King Duvet Cover (each),Operating Supplies,Linen & Laundry,each,18.4,1.8,S12
+P054,Laundry Service (per 100kg),Operating Supplies,Linen & Laundry,100kg,82.0,3.2,S12
+P055,Takeaway Coffee Cups 12oz (1000),Operating Supplies,Packaging & Disposables,case,64.0,0.4,S13
+P056,Napkins 2-ply (case of 2000),Operating Supplies,Packaging & Disposables,case,27.8,0.9,S13
+P057,Cling Film 450mm,Operating Supplies,Packaging & Disposables,roll,12.4,0.8,S13

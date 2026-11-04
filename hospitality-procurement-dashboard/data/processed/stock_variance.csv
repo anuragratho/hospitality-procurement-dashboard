@@ -1,0 +1,19 @@
+hotel_name,subcategory,sold_qty,variance_qty,variance_value,shrink_pct
+Harbourline Limerick,Beer & Cider,1193,-34,-4861.83,0.028499580888516344
+Harbourline Dublin Airport,Wine,4586,-90,-4769.14,0.01962494548626254
+Harbourline Galway,Wine,3072,-82,-4475.11,0.026692708333333332
+Harbourline Galway,Beer & Cider,1457,-28,-4323.45,0.019217570350034317
+Harbourline Limerick,Wine,2576,-78,-4180.2,0.030279503105590064
+Harbourline Cork,Wine,3385,-75,-3925.92,0.022156573116691284
+Harbourline Dublin Airport,Beer & Cider,2121,-22,-3495.81,0.010372465818010372
+Harbourline Dublin City,Beer & Cider,2513,-26,-3393.87,0.010346199761241544
+Harbourline Limerick,Spirits,2276,-132,-3320.32,0.05799648506151142
+Harbourline Galway,Spirits,2749,-122,-3070.92,0.044379774463441254
+Harbourline Dublin West,Wine,4224,-56,-2947.24,0.013257575757575758
+Harbourline Dublin Airport,Spirits,4240,-109,-2699.63,0.025707547169811322
+Harbourline Dublin City,Wine,5466,-49,-2528.62,0.008964507866813026
+Harbourline Cork,Spirits,3139,-93,-2309.1,0.02962726983115642
+Harbourline Dublin West,Beer & Cider,1873,-18,-2172.09,0.009610250934329953
+Harbourline Dublin West,Spirits,3458,-78,-1896.59,0.022556390977443608
+Harbourline Cork,Beer & Cider,1576,-15,-1866.79,0.00951776649746193
+Harbourline Dublin City,Spirits,4921,-73,-1736.67,0.014834383255435887

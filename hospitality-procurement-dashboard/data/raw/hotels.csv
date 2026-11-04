@@ -1,0 +1,7 @@
+hotel_id,hotel_name,city,rooms,compliance_discipline
+H01,Harbourline Dublin City,Dublin,320,0.95
+H02,Harbourline Dublin West,Dublin,245,0.92
+H03,Harbourline Dublin Airport,Dublin,280,0.9
+H04,Harbourline Cork,Cork,210,0.86
+H05,Harbourline Galway,Galway,190,0.8
+H06,Harbourline Limerick,Limerick,160,0.74

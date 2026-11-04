@@ -1,0 +1,73 @@
+hotel_name,subcategory,supplier_name,off_contract_spend,lines,premium_paid,premium_pct
+Harbourline Limerick,Meat & Poultry,Westside Local Butchers,85058.02,279,13092.48,0.1819270723182234
+Harbourline Limerick,Beer & Cider,Metro Drinks Direct,69337.77,113,10547.09,0.17940071453502493
+Harbourline Galway,Meat & Poultry,Westside Local Butchers,65871.4,192,9506.55,0.16866096512276713
+Harbourline Dublin Airport,Meat & Poultry,Westside Local Butchers,48862.56,88,7768.35,0.18903757974663585
+Harbourline Limerick,Wine,Metro Drinks Direct,49297.56,101,7725.0,0.1858196849075448
+Harbourline Cork,Meat & Poultry,Westside Local Butchers,46267.65,119,7256.14,0.185999977955224
+Harbourline Galway,Beer & Cider,Metro Drinks Direct,44814.12,68,7168.96,0.19043510507061198
+Harbourline Limerick,Dairy & Eggs,QuickServe Cash & Carry,40059.72,308,6737.16,0.2021801446227421
+Harbourline Galway,Wine,Metro Drinks Direct,33992.79,63,5447.7,0.19084543086043868
+Harbourline Cork,Beer & Cider,Metro Drinks Direct,35134.55,52,5367.18,0.18030413839045908
+Harbourline Dublin City,Meat & Poultry,Westside Local Butchers,35235.77,49,5088.99,0.16880708321087692
+Harbourline Dublin Airport,Wine,Metro Drinks Direct,29202.68,36,5084.63,0.21082259967120062
+Harbourline Limerick,Fresh Produce,QuickServe Cash & Carry,32074.51,340,4934.49,0.18181600455710792
+Harbourline Galway,Dairy & Eggs,QuickServe Cash & Carry,29906.24,182,4840.39,0.19310695627716595
+Harbourline Limerick,Seafood,Corrib Fish Market,28051.34,179,4799.04,0.20638990551472328
+Harbourline Dublin West,Wine,Metro Drinks Direct,28773.72,30,4533.6,0.18702877708526194
+Harbourline Dublin Airport,Beer & Cider,Metro Drinks Direct,27587.82,36,4511.1,0.1954827202479382
+Harbourline Cork,Wine,Metro Drinks Direct,26713.44,49,4494.39,0.20227642495966303
+Harbourline Dublin West,Meat & Poultry,Westside Local Butchers,29930.260000000002,73,4429.38,0.17369518228390549
+Harbourline Dublin City,Beer & Cider,Metro Drinks Direct,31287.14,24,4358.14,0.16183816703182444
+Harbourline Galway,Fresh Produce,QuickServe Cash & Carry,27669.64,233,4199.98,0.17895359370353042
+Harbourline Galway,Seafood,Corrib Fish Market,24517.99,128,4168.33,0.20483536334267988
+Harbourline Cork,Dairy & Eggs,QuickServe Cash & Carry,23456.31,132,3854.83,0.19666015015192725
+Harbourline Dublin Airport,Dairy & Eggs,QuickServe Cash & Carry,23991.23,104,3738.19,0.18457426638173824
+Harbourline Cork,Fresh Produce,QuickServe Cash & Carry,23061.53,172,3452.91,0.17609143325741433
+Harbourline Dublin West,Beer & Cider,Metro Drinks Direct,22665.690000000002,20,3413.4300000000003,0.17730022345428537
+Harbourline Limerick,Spirits,Metro Drinks Direct,18934.42,98,3074.98,0.19388956987131956
+Harbourline Dublin Airport,Fresh Produce,QuickServe Cash & Carry,19403.56,109,2868.25,0.17346212438714484
+Harbourline Limerick,Soft Drinks & Mixers,QuickServe Cash & Carry,19598.92,103,2780.53,0.16532676433356583
+Harbourline Cork,Seafood,Corrib Fish Market,16906.39,87,2674.16,0.18789465881313047
+Harbourline Dublin Airport,Seafood,Corrib Fish Market,15193.59,49,2533.67,0.200133176197006
+Harbourline Galway,Spirits,Metro Drinks Direct,16098.26,67,2522.23,0.18578553524115665
+Harbourline Dublin West,Dairy & Eggs,QuickServe Cash & Carry,15873.05,79,2454.31,0.18290167333147522
+Harbourline Dublin City,Dairy & Eggs,QuickServe Cash & Carry,14253.19,51,2367.77,0.19921635078945463
+Harbourline Dublin Airport,Spirits,Metro Drinks Direct,14447.11,39,2288.67,0.18823714226496163
+Harbourline Galway,Soft Drinks & Mixers,QuickServe Cash & Carry,15188.95,71,2279.71,0.17659521397076822
+Harbourline Dublin City,Wine,Metro Drinks Direct,12859.89,17,2122.65,0.19769046794148218
+Harbourline Limerick,Guest Amenities,Budget Janitorial Supply,14437.86,68,2118.86,0.17199935059663934
+Harbourline Cork,Soft Drinks & Mixers,QuickServe Cash & Carry,14923.85,65,2107.11,0.1644029605032169
+Harbourline Dublin City,Fresh Produce,QuickServe Cash & Carry,13863.37,66,2107.11,0.17923302138605304
+Harbourline Dublin West,Fresh Produce,QuickServe Cash & Carry,14189.92,89,2030.44,0.16698411445226277
+Harbourline Dublin Airport,Soft Drinks & Mixers,QuickServe Cash & Carry,11333.79,33,1773.6,0.1855193254527368
+Harbourline Galway,Guest Amenities,Budget Janitorial Supply,11577.39,51,1746.82,0.1776926465098158
+Harbourline Galway,Dry Goods,QuickServe Cash & Carry,10424.73,104,1649.74,0.1880047726550116
+Harbourline Limerick,Dry Goods,QuickServe Cash & Carry,9454.83,109,1499.51,0.18849147488724527
+Harbourline Limerick,Cleaning Chemicals,Budget Janitorial Supply,9190.76,77,1453.1200000000001,0.18779886373622967
+Harbourline Cork,Spirits,Metro Drinks Direct,10043.4,44,1451.31,0.1689123368121144
+Harbourline Dublin West,Seafood,Corrib Fish Market,8542.35,33,1275.35,0.17549883032888397
+Harbourline Dublin West,Soft Drinks & Mixers,QuickServe Cash & Carry,9027.55,31,1268.15,0.16343402840425808
+Harbourline Galway,Cleaning Chemicals,Budget Janitorial Supply,8006.83,58,1247.16,0.18450013092355103
+Harbourline Dublin City,Soft Drinks & Mixers,QuickServe Cash & Carry,7574.45,18,1240.74,0.19589466521201634
+Harbourline Dublin City,Seafood,Corrib Fish Market,7436.72,27,1195.85,0.1916159125250165
+Harbourline Cork,Guest Amenities,Budget Janitorial Supply,7608.1,32,1108.75,0.17059398247517057
+Harbourline Cork,Cleaning Chemicals,Budget Janitorial Supply,7642.04,51,1104.49,0.1689455529976826
+Harbourline Dublin Airport,Dry Goods,QuickServe Cash & Carry,6227.07,46,1058.0,0.20467898480771204
+Harbourline Cork,Dry Goods,QuickServe Cash & Carry,6672.64,56,1033.7,0.1833145945869259
+Harbourline Dublin City,Guest Amenities,Budget Janitorial Supply,7000.09,17,937.17,0.15457403363395855
+Harbourline Dublin West,Dry Goods,QuickServe Cash & Carry,5931.0,45,909.4300000000001,0.18110471426267086
+Harbourline Dublin Airport,Guest Amenities,Budget Janitorial Supply,6400.41,19,902.86,0.16422952042273375
+Harbourline Galway,Packaging & Disposables,QuickServe Cash & Carry,6016.17,61,890.52,0.17373796494103189
+Harbourline Dublin West,Guest Amenities,Budget Janitorial Supply,5992.33,18,865.61,0.16884284688845888
+Harbourline Limerick,Packaging & Disposables,QuickServe Cash & Carry,5931.52,73,853.42,0.16805891967468145
+Harbourline Dublin City,Spirits,Metro Drinks Direct,4430.76,14,770.14,0.2103851260169042
+Harbourline Dublin City,Dry Goods,QuickServe Cash & Carry,4857.57,26,743.91,0.18083896092530738
+Harbourline Dublin West,Spirits,Metro Drinks Direct,5550.21,22,729.24,0.15126416468055184
+Harbourline Cork,Packaging & Disposables,QuickServe Cash & Carry,4644.64,45,696.52,0.1764181433188454
+Harbourline Dublin Airport,Cleaning Chemicals,Budget Janitorial Supply,4124.15,20,631.26,0.1807271342641767
+Harbourline Dublin City,Cleaning Chemicals,Budget Janitorial Supply,4285.92,20,588.04,0.15902084437569633
+Harbourline Dublin Airport,Packaging & Disposables,QuickServe Cash & Carry,3168.76,24,526.22,0.1991341663702347
+Harbourline Dublin West,Cleaning Chemicals,Budget Janitorial Supply,3164.44,17,456.9,0.16875096951476248
+Harbourline Dublin West,Packaging & Disposables,QuickServe Cash & Carry,2642.69,19,381.48,0.16870613521079422
+Harbourline Dublin City,Packaging & Disposables,QuickServe Cash & Carry,2124.58,13,340.54,0.1908813703728616

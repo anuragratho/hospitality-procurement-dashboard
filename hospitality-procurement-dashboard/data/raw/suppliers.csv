@@ -1,0 +1,19 @@
+supplier_id,supplier_name,subcategories,is_contracted,lead_time_days,delivery_reliability,invoice_accuracy,price_creep_tendency,payment_terms_days
+S01,Emerald Fresh Produce,Fresh Produce,True,1,0.94,0.97,0.0,30
+S02,Midlands Meat Co.,Meat & Poultry,True,2,0.91,0.95,0.012,30
+S03,Atlantic Seafood Traders,Seafood,True,1,0.86,0.93,0.025,30
+S04,Celtic Dairy Distributors,Dairy & Eggs,True,1,0.96,0.98,0.0,30
+S05,Oakfield Craft Bakery,Bakery,True,1,0.95,0.97,0.004,30
+S06,Shannon Dry Goods,Dry Goods,True,3,0.93,0.96,0.008,30
+S07,Liffey Beverage Wholesale,Beer & Cider; Soft Drinks & Mixers,True,2,0.92,0.96,0.006,30
+S08,Tara Wines & Spirits,Wine; Spirits,True,3,0.89,0.94,0.018,30
+S09,Roastworks Coffee,Tea & Coffee,True,4,0.97,0.99,0.0,30
+S10,BrightClean Hygiene,Cleaning Chemicals,True,4,0.9,0.95,0.01,30
+S11,Linden Guest Supplies,Guest Amenities,True,5,0.88,0.96,0.005,30
+S12,LinenCare Ireland,Linen & Laundry,True,3,0.85,0.92,0.02,30
+S13,Coastline Packaging,Packaging & Disposables,True,4,0.92,0.97,0.003,30
+S14,QuickServe Cash & Carry,Fresh Produce; Dairy & Eggs; Dry Goods; Soft Drinks & Mixers; Packaging & Disposables,False,0,0.98,0.9,0.0,0
+S15,Westside Local Butchers,Meat & Poultry,False,1,0.9,0.88,0.0,0
+S16,Corrib Fish Market,Seafood,False,1,0.84,0.86,0.0,0
+S17,Metro Drinks Direct,Beer & Cider; Wine; Spirits,False,1,0.87,0.89,0.0,0
+S18,Budget Janitorial Supply,Cleaning Chemicals; Guest Amenities,False,2,0.82,0.87,0.0,0
