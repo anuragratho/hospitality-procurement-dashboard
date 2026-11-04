@@ -74,7 +74,7 @@ tests/                      28 data-quality, logic and workbook tests (pytest)
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/hospitality-procurement-dashboard.git
+git clone https://github.com/<anuragratho>/hospitality-procurement-dashboard.git
 cd hospitality-procurement-dashboard
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
